@@ -1,6 +1,6 @@
 # PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising
 
-This is an official PyTorch implementation of ["PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising"](https://github.com/wooseoklee4/AP-BSN) in NeurIPS 2023.
+This is an official PyTorch implementation of ["PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising"](http://arxiv.org/abs/2310.10088) in NeurIPS 2023.
 
 ![main_fig](./figs/model.PNG)
 
