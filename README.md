@@ -123,24 +123,13 @@ Here is reported results of PUCA. Please refer our paper for more detailed resul
 
 ## Reference
 ```
-@article{jang2023puca,
+@inproceedings{jang2023puca,
   title={PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising},
   author={Jang, Hyemi and Park, Junsung and Jung, Dahuin and Lew, Jaihyun and Bae, Ho and Yoon, Sungroh},
-  journal={arXiv preprint arXiv:2310.10088},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023}
 }
 ```
-
-<!-- ## Reference
-
-```
-@inproceedings{lee2022apbsn,
-  title={PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising}, 
-  author={Lee, Wooseok and Son, Sanghyun and Lee, Kyoung Mu},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2023}
-}
-``` -->
 
 ## Acknowledgement
 
