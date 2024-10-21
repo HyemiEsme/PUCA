@@ -137,7 +137,4 @@ The codes are based on [AP-BSN](https://github.com/wooseoklee4/AP-BSN). Thanks f
 
 <!-- ---
 
-### Update log
 
-- (22.04.15) fixed a bug of single image test without dataset, and update test code for entire image folder.
-- (22.05.13) upload result images of the SIDD validation/benchmark dataset. -->
